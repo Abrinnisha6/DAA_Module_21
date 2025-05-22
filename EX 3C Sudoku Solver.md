@@ -1,6 +1,6 @@
 # EX 3C Sudoku Solver
 
-## DATE :
+## DATE :29/04/2025
 
 ## AIM :
 
