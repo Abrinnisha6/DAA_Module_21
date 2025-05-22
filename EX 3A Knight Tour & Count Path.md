@@ -1,6 +1,6 @@
 # EX 3A Knight Tour & Count Path
 
-## DATE :
+## DATE :29/04/2025
 
 ## AIM :
 
